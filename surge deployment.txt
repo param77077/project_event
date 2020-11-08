@@ -1,0 +1,11 @@
+
+   Running as param7707@gmail.com (Student)
+
+        project: .\build
+         domain: venue-app-param.surge.sh
+         upload: [====================] 100% eta: 0.0s (21 files, 2621494 bytes)
+            CDN: [====================] 100%
+
+             IP: 138.197.235.123
+
+   Success! - Published to venue-app-param.surge.sh
